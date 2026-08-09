@@ -1,6 +1,6 @@
 # 致全世界所有人造语言爱好者的一份完整的人造语言输入法详细制作教程（中文版）
 
-🌐 **中文** | [English](README.en.md)
+🌐 **中文** | [English](README.en.md) | [日本語](README.ja.md) | [Español](README.es.md) | [Русский](README.ru.md)
 
 本文依次从SVG代码编写、TTF/OTF字体文件制作、Keyman Developer的触控映射代码编写以及屏幕键盘的制作等三个主要方面完整介绍了从零基础开始制作有关于自己的人造语言输入法的全流程教程。
 

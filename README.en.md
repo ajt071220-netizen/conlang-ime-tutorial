@@ -1,6 +1,6 @@
 # A Complete Tutorial on Building a Constructed-Language Input Method for Conlang Enthusiasts Worldwide (English Edition)
 
-🌐 [中文](README.md) | **English**
+🌐 [中文](README.md) | **English** | [日本語](README.ja.md) | [Español](README.es.md) | [Русский](README.ru.md)
 
 This tutorial walks you through the full process of building an input method for your own constructed language from scratch, covering three main areas: writing SVG code, creating TTF/OTF font files, and building key mappings and an on-screen keyboard in Keyman Developer.
 
